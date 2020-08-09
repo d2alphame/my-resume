@@ -1,10 +1,10 @@
 # Deji Adegbite
-d2alphame@yahoo.com |  +234-703-794-2000
+contact@dejiadegbite.com | d2alphame@gmail.com |  +234-703-794-2000
 
 Profiles:    
-https://linkedin.com/in/DejiAdegbite  
-https://google.com/+DejiAdegbite  
-https://quora.com/profile/deji-adegbite
+https://linkedin.com/in/DejiAdegbite    
+https://quora.com/profile/deji-adegbite  
+https://twitter.com/d2alphame
 
 Repositories:  
 https://github.com/d2alphame  
@@ -18,7 +18,7 @@ I also love to learn new things.
 * * *
 
 ## Experience
-  * **Javaplus Innovations (December 2016 till date)** *Software Developer*
+  * **Javaplus Innovations (December 2016 to September 2017)** *Software Developer*
 
     + Responsible for design and development of software solutions.
     + Responsible for database design of Data Access Layer of Software
