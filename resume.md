@@ -4,7 +4,9 @@ contact@dejiadegbite.com | d2alphame@gmail.com |  +234-703-794-2000
 Profiles:    
 https://linkedin.com/in/DejiAdegbite    
 https://quora.com/profile/deji-adegbite  
-https://twitter.com/d2alphame
+https://twitter.com/dejiadegbite  
+https://twitter.com/d2alphame  
+https://facebook.com/DejiAdegbite
 
 Repositories:  
 https://github.com/d2alphame  
